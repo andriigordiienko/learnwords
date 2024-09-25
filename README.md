@@ -1,5 +1,6 @@
 
 # Learn Words App
+![Uploading image.png…]()
 
 This app allows users to search and display word translations between English and another language. Users can also set their own URL for the word data source and toggle between the original word and its translation with a simple click.
 
