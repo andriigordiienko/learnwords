@@ -1,14 +1,14 @@
 //
-//  LearnWorldsApp.swift
-//  LearnWorlds
+//  LearnWordsApp.swift
+//  LearnWords
 //
-//  Created by red on 24.09.2024.
+//  Created by red on 25.09.2024.
 //
 
 import SwiftUI
 
 @main
-struct LearnWorldsApp: App {
+struct LearnWordsApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
