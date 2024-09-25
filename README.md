@@ -62,4 +62,4 @@ This app was built using SwiftUI and AVFoundation for text-to-speech functionali
 
 ---
 
-© 2024 Words Translation App. All rights reserved.
+© 2024 AndriiGordiienko. All rights reserved.
