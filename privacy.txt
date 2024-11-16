@@ -1,0 +1,34 @@
+Privacy Policy
+
+Last updated: 16.11.2024
+
+At LearnMyNewWords, we respect your privacy and are committed to ensuring that your personal data remains private. This Privacy Policy explains how we handle your information when you use our mobile application (the "App").
+
+1. Information We Do Not Collect
+We do not collect, store, or share any personal information from users of the App. This includes, but is not limited to:
+
+Name
+Email address
+Phone number
+Payment information
+Usage data
+2. Data Usage
+Since we do not collect any personal information or usage data, we do not use any data for purposes such as advertising, analytics, or marketing.
+
+3. Third-Party Services
+Our app does not integrate with third-party services that would collect your personal information (e.g., analytics tools, advertising networks). We do not share or transmit any data to third-party services.
+
+4. Security
+Since no personal data is collected or stored by the App, there is no data to protect. However, we take reasonable measures to ensure the App operates securely and without exposing any data to unauthorized access.
+
+5. Changes to This Privacy Policy
+We may update this Privacy Policy in the future. If we make changes, we will post the updated policy on this page and update the "Last updated" date. You are encouraged to review this policy periodically.
+
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+[Your Company Name]
+[Contact Email]
+[Contact Phone Number]
+[Company Address]
+
