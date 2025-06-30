@@ -108,7 +108,7 @@
   {"original": "poorly", "translation": "плохо"},
   {"original": "lately", "translation": "недавно"},
   {"original": "actually", "translation": "на самом деле"},
-  {"original": "eventully", "translation": "в конце концов (ошибка: должно быть 'eventually')"},
+  {"original": "eventually", "translation": "в конце концов"},
   {"original": "gradually", "translation": "постепенно"},
   {"original": "although", "translation": "хотя"},
   {"original": "encourage", "translation": "поощрять"}
